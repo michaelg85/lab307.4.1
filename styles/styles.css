@@ -1,0 +1,64 @@
+body {
+    background: deepskyblue;
+}
+
+h1 {
+    text-align: center;
+    }
+
+img {
+    border-radius: 25px;
+    width: 150px;
+}
+
+.container1 {
+    text-align: center;
+    background-color: rgb(144, 197, 244);
+    color: rgb(15, 99, 173);
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 50px;
+    margin: 50px
+}
+
+.container2 {
+    background-color: rgb(111, 160, 200);
+    color: rgb(17, 71, 179);
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 50px;
+    margin: 50px
+    
+}
+
+.container3 {
+    background-color: rgb(74, 125, 168);
+    color: rgb(255, 255, 255);
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    border-radius: 50px;
+    margin: 50px
+}
+
+#box1 {
+    text-align: justify;
+}
+
+#box2 {
+    text-align: justify;
+}
+
+#box3 {
+    text-align: justify;
+}
+
+.section1, .section2, .section3 {
+    display: flex;
+    justify-content: space-around;
+}
